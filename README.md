@@ -9,4 +9,3 @@ The current amount of life and score is printed at the top.
 
 Lost the source  hence that is why you don't see any. Funny story. I am going to redo it though, and update this readme to include instructions. 
 
-<b> Impressive </b>
