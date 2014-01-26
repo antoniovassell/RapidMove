@@ -1,3 +1,0 @@
-This is not the snake game,jus something easier,got the idea off my phone yesterday,(the little game called rapid roll).i Will call this "Rapid Move" the controls are the arrow keys(left or right, up or down) and press ESC to exit anytime, initial you have 30 lives, but they finish quick!
-the aim is to not let my name hit the blocks!!!
-the current amount of life and score is printed at the top
